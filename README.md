@@ -15,6 +15,10 @@ I used ARKit, SceneKit, SwiftUI, UIKit, RealityKit, Reality Composer, SpriteKit 
 ![Screenshot1Combined](https://user-images.githubusercontent.com/15036099/115304812-511fc880-a15d-11eb-9950-2d3391375272.png)
 ![Screenshot2Combined](https://user-images.githubusercontent.com/15036099/115304835-57ae4000-a15d-11eb-9fce-17747e96effd.png)
 
+
+## License
+**Great Minds** is subject to the terms and conditions of the MIT license.
+
 ```
 MIT License
 
